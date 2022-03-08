@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 👋 (this file is still WIP  )
 
 <!--
 **hao-codes/hao-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying Artificial Intelligence at Johannes Kepler University.
+I'm currently studying Artificial Intelligence at <a href="https://www.jku.at/en">Johannes Kepler University Linz</a>.
+
+Due to my studies, interships and personal interest, I have gained experience with Python, especially with Panda, NumPy, Sk-learn and Matplotlib.
+
+In my freetime, I'm currently learning a bit of web development(HTML, CSS, JavaScript) since my goal is to create a personal website :)
+
+![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-codes&title_color=#BFD7ED&text_color=#60A3D9)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hao-codes&layout=compact)
