@@ -1,7 +1,5 @@
 ### Hello 👋 
 
-FYI: this profile overview is still WIP  ;)
-
 <!--
 **hao-codes/hao-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ At the moment, I'm studying Artificial Intelligence at <a href="https://www.jku.
 
 Due to my studies, interships and personal interest, I have gained experience with Python, especially with Pandas, NumPy, Sk-learn and Matplotlib.
 
-🌱 I'm currently learning a bit of web development(HTML, CSS, JavaScript) in my freetime to add addtional skills besides my concentration in the data science/ machine learning field :)
+🌱 I'm currently learning a bit of web development(HTML, CSS, JavaScript) in my freetime to add addtional skills besides my concentration in the data science/ machine learning field
 
 ![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-codes&title_color=#BFD7ED&text_color=#60A3D9)
 
