@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 At the moment, I'm studying Artificial Intelligence at <a href="https://www.jku.at/en">Johannes Kepler University Linz</a>.
 
-Due to my studies, interships and personal interest, I have gained experience with Python, especially with Pandas, NumPy, Sk-learn and Matplotlib.
+Due to my studies, internships and personal interest, I have gained experience with Python, especially with Pandas, NumPy, Sk-learn and Matplotlib.
 
 🌱 I'm currently learning a bit of web development(HTML, CSS, JavaScript) in my freetime to add addtional skills besides my concentration in the data science/ machine learning field
 
