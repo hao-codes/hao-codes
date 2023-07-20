@@ -27,6 +27,5 @@ Due to my studies, internships and personal interest, I have gained experience w
 
 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hao-zh/)
-&nbsp;
-hao.zheng@hotmail.com
+
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) -->
