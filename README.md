@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 At the moment, I'm studying Artificial Intelligence at <a href="https://www.jku.at/en">Johannes Kepler University Linz</a>.
 
-Due to my studies, internships and personal interest, I have gained experience with Python, especially with Pandas, NumPy, Sk-learn and Matplotlib.
+- 🌱 I’m currently learning about Machine Learning topics like Computer Vision, Reinforcement Learning, Explainable AI and others.
+
+Due to my studies, internships and personal interest, I have gained experience with Python, especially with NumPy, Pandas, PyTorch, Sk-learn, Matplotlib
+<!--
 Otherwise, I am also working on web development skills(HTML, CSS, JavaScript).
-
-![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-codes&title_color=#BFD7ED&text_color=#60A3D9)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hao-codes&layout=compact)
-
+-->
 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hao-zh/)
 
+![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-codes&title_color=#BFD7ED&text_color=#60A3D9) 
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) -->
