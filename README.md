@@ -27,5 +27,6 @@ Otherwise, I am also working on web development skills(HTML, CSS, JavaScript).
 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hao-zh/)
 
-![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-codes&title_color=#BFD7ED&text_color=#60A3D9) 
-<!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) -->
+
+<!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) 
+![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-codes&title_color=#BFD7ED&text_color=#60A3D9) -->
