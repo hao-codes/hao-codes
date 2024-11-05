@@ -25,7 +25,7 @@ Otherwise, I am also working on web development skills(HTML, CSS, JavaScript).
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hao-codes&layout=compact)
 -->
 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hao-zh/)
+ [LinkedIn](https://www.linkedin.com/in/hao-zh/)
 
 
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) 
